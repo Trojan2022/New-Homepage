@@ -83,6 +83,7 @@ body{
     font-weight: 800;
     line-height: 1.01;
 }
+
 h1{
     color: var(--soft-orange);
 }
@@ -191,7 +192,7 @@ button:hover{
         top: 0;
         left: 70%;
     }
-    .mobile-menu .list{
+    .mobile-menu ul{
         list-style: none;
         display: flex;
         flex-direction: column;
